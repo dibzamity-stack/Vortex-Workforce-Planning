@@ -43,7 +43,8 @@ Prioritize **Customer Support and Operations** for staffing and workload review,
 - `Vortex_Workforce_Planning_Report.docx` — Detailed Report
 - `README.md` — Project Overview
 
-- **By Dibin B Issac
+---
+**By Dibin B Issac
 
 ---
 
