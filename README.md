@@ -40,13 +40,13 @@ The Excel dashboard presents:
 * Department-level staffing priorities
 * Team-level customer complaint patterns
 
-  ![Excel Workforce Dashboard](Vortex-Workforce-Dashboard.png)
+![Vortex Workforce Dashboard](Vortex%20Workforce%20Dashboard.jpg)
 
 ### Power BI Dashboard
 
 A Power BI dashboard was also developed using the same workforce dataset to present workforce insights through interactive visualizations and support easier exploration of department and team-level performance.
 
-![Power BI Workforce Dashboard](Vortex-PowerBI-Dashboard.png)
+![Vortex Power BI Dashboard](Vortex%20PowerBI%20Dashboard.png)
 
 ## 💡 Recommendations
 
