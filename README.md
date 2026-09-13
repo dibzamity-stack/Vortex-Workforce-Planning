@@ -2,50 +2,55 @@
 
 ## Overview
 
-Excel-based workforce analytics project using a dataset of **1,000 employees** to identify staffing pressure, employee risk, productivity issues, and customer complaint patterns.
+Vortex Workforce Planning is a workforce analytics project using a dataset of 1,000 employees. The project uses Microsoft Excel and Power BI to analyze workforce distribution, productivity, overtime, employee risk, and customer complaint patterns, helping identify staffing pressures and operational improvement opportunities.
 
 ## 🎯 Objective
 
-Identify which departments and teams require **staffing review, workload balancing, or operational improvement**.
+To identify departments and teams that may require staffing review, workload balancing, or operational improvement based on workforce and performance data.
 
-## 🛠️ Tools
+## 🛠️ Tools & Skills
 
-- Microsoft Excel
-- Excel Formulas
-- Data Analysis
-- Excel Dashboard
-- Microsoft Word
+* Microsoft Excel
+* Excel Formulas
+* Data Analysis
+* Pivot Tables
+* Excel Dashboard
+* Microsoft Power BI
+* Power BI Dashboard Development
+* Microsoft Word
 
 ## 📈 Key Findings
 
-- **Customer Support** → 77.4% productivity, 125 high-risk employees
-- **Operations** → 25.0 average overtime, 72 high-risk employees
-- **Operations & Customer Support** → High Hiring Priority
-- **Escalations** → Highest customer complaints among analyzed teams
+* **Customer Support:** Recorded 77.4% productivity and 125 high-risk employees.
+* **Operations:** Reported an average overtime value of 25.0 and 72 high-risk employees.
+* **Staffing Priorities:** Customer Support and Operations were identified as departments requiring priority staffing and workload review.
+* **Customer Complaints:** Escalations recorded the highest number of customer complaints among the analyzed teams.
 
-## 📊 Dashboard
+## 📊 Dashboards
+
+The project includes dashboards developed using both Excel and Power BI.
+
+### Excel Dashboard
 
 The Excel dashboard presents:
 
-- Workforce distribution
-- Productivity & overtime
-- High-risk employees
-- Staffing priorities
-- Team-level customer complaints
+* Workforce distribution
+* Productivity and overtime analysis
+* High-risk employee counts
+* Department-level staffing priorities
+* Team-level customer complaint patterns
 
-## 💡 Recommendation
+  ![Excel Workforce Dashboard](Vortex Workforce Dashboard.png)
 
-Prioritize **Customer Support and Operations** for staffing and workload review, while investigating team-level service issues before making final hiring decisions.
+### Power BI Dashboard
 
-## 📁 Files
+A Power BI dashboard was also developed using the same workforce dataset to present workforce insights through interactive visualizations and support easier exploration of department and team-level performance.
 
-- `Vortex_Workforce_Planning.xlsx` — Analysis & Dashboard
-- `Vortex_Workforce_Planning_Report.docx` — Detailed Report
-- `README.md` — Project Overview
+![Power BI Workforce Dashboard](Vortex PowerBI Dashboard.png)
 
----
-**By Dibin B Issac
+## 💡 Recommendations
 
+Customer Support and Operations should be prioritized for staffing and workload review. Team-level service issues should also be investigated to determine whether customer complaints are related to staffing, workload, or other operational factors before making final hiring decisions.
 ---
 
-**Vortex Workforce Planning — Workforce Analytics Project**
+**Created by Dibin B Issac**
